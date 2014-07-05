@@ -1,3 +1,4 @@
 ["redis-brain.coffee", "shipit.coffee",
- "xkcd.coffee", "roll.coffee", "encourage.coffee"
+ "xkcd.coffee", "roll.coffee", "encourage.coffee",
+ "wikipedia.coffee"
 ]
