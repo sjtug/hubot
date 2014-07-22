@@ -1,4 +1,4 @@
 ["redis-brain.coffee", "shipit.coffee",
  "xkcd.coffee", "roll.coffee", "encourage.coffee",
- "wikipedia.coffee"
+ "wikipedia.coffee", "clojure.coffee"
 ]
