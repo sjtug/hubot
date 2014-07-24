@@ -1,1 +1,0 @@
-2014-07-22 : Add a new project called "sample" to explore scripting for hubot.

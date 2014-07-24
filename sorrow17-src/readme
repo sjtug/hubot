@@ -1,0 +1,6 @@
+Since @endle asks contributors to attach their original code if their plugins for Hubot are wittren in non-coffee(or java)script, I put a directory here to storage all the code and configuration files required to build js plugins. 
+
+Current plugins:
+- avrg: a trivial statistics plugin which calculates the average of input numbers
+usage: hubot avrg num0 num1 num2 ...
+example: -> hubot avrg 0 2 7   ----------------  output: 9
