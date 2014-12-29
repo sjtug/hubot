@@ -15,7 +15,7 @@
 
 module.exports = (robot) ->
   robot.respond /latex\s+(.*)/i, (msg) ->
-    tex = "#{msg.match[1]}"
+    tex = encodeURIComponent "#{msg.match[1]}"
     link = "http://latex.codecogs.com/gif.latex?#{tex}"
 
     msg.send "#{link}"
