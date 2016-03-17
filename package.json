@@ -5,6 +5,7 @@
   "author": "SJTUG <sjtug@googlegroups.com>",
   "description": "Hubot for SJTUG",
   "dependencies": {
+    "htmlparser": "^1.7.7",
     "hubot": "^2.18.0",
     "hubot-google-images": "^0.2.6",
     "hubot-google-translate": "^0.2.0",
@@ -13,7 +14,11 @@
     "hubot-maps": "0.0.2",
     "hubot-redis-brain": "0.0.3",
     "hubot-scripts": "^2.16.2",
-    "hubot-slack": "^3.4.2"
+    "hubot-slack": "^3.4.2",
+    "ntwitter": "^0.5.0",
+    "soupselect": "^0.2.0",
+    "underscore": "^1.8.3",
+    "underscore.string": "^3.3.4"
   },
   "engines": {
     "node": "0.10.x"
