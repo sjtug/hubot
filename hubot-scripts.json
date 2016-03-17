@@ -1,6 +1,5 @@
 [
     "roll.coffee",
     "xkcd.coffee",
-    "tweet.coffee",
     "wikipedia.coffee"
 ]
